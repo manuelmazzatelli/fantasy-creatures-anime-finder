@@ -29,7 +29,7 @@ body {
     height: 200px;
     position: relative; }
     .blog-card .photo.photo1 {
-      background: url("../img/thumb-1920-12ffff9803.jpg") center no-repeat;
+      background: url("../img/thumb-1920-129803.jpg") center no-repeat;
       background-size: cover; }
     .blog-card .photo.photo2 {
       background: url("http://i60.tinypic.com/xeiv79.jpg") center no-repeat;
@@ -74,7 +74,7 @@ body {
       color: inherit;
       border-bottom: 1px dotted; }
       .blog-card .details a:hover {
-        color: #75D13B; }
+        color: #536357; }
   .blog-card .description {
     padding: 10px;
     -webkit-box-sizing: border-box;
@@ -98,7 +98,7 @@ body {
       padding-top: 20px; }
       .blog-card .description p:after {
         content: "";
-        background: #75D13B;
+        background: #536357;
         height: 6px;
         width: 40px;
         /*POSITION*/
@@ -106,7 +106,7 @@ body {
         top: 6px;
         left: 0; }
     .blog-card .description a {
-      color: #75D13B;
+      color: #536357;
       margin-bottom: 10px;
       float: right; }
       .blog-card .description a:after {
