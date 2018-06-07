@@ -27,13 +27,9 @@ body {
     left: inherit; }
   .blog-card .photo {
     height: 200px;
-    position: relative; }
-    .blog-card .photo.photo1 {
-      background: url("../img/thumb-1920-129803.jpg") center no-repeat;
-      background-size: cover; }
-    .blog-card .photo.photo2 {
-      background: url("http://i60.tinypic.com/xeiv79.jpg") center no-repeat;
-      background-size: cover; }
+    position: relative;
+    background-size: cover;
+    background-position: center; }
   .blog-card .details {
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease;
@@ -76,6 +72,7 @@ body {
       .blog-card .details a:hover {
         color: #536357; }
   .blog-card .description {
+    height: 100%;
     padding: 10px;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
