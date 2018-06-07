@@ -66,7 +66,7 @@
     },
     {
         "nome": "goblin",
-        "descrizione": "A goblin is a monstrous creature from European folklore, first attested in stories from the Middle Ages. They are ascribed various and conflicting abilities, temperaments and appearances depending on the story and country of origin. They are almost always small and grotesque, mischievous or outright malicious, and greedy, especially for gold and jewelry. They often have magical abilities similar to a fairy or demon.",
+        "descrizione": "A goblin is a monstrous creature from European folklore, first attested in stories from the Middle Ages. They are ascribed various and conflicting abilities, temperaments and appearances depending on the story and country of origin.",
         "url_img": "src/img/david-billings-goblin-diplomats-m14-1920x1080-wallpaper.jpg"
     },
     {
@@ -83,5 +83,10 @@
         "nome": "troll",
         "descrizione": "A troll is a class of being in Norse mythology and Scandinavian folklore. In Old Norse sources, beings described as trolls dwell in isolated rocks, mountains, or caves, live together in small family units, and are rarely helpful to human beings.",
         "url_img": "src/img/thumb-1920-129803.jpg"
+    },
+    {
+        "nome": "Vampire",
+        "descrizione": "A vampire is a being from folklore that subsists by feeding on the vital force of the living. In European folklore, vampires were undead beings that often visited loved ones and caused mischief or deaths in the neighbourhoods they inhabited when they were alive. ",
+        "url_img": "src/img/3b74c9a755d080a4892bd37c6ec2fd5e.jpg"
     }
 ]
