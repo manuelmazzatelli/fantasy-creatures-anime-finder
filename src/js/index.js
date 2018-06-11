@@ -45,6 +45,7 @@ function datiArrivati(data) {
                             '</div>',
                             '<div class="mdl-card__supporting-text">',
                             '' + data.result[index].description + '',
+                            '<a href="'+ data.result[index].url +'"> More information </a>',
                             '</div>',
                             '<div class="mdl-card__actions mdl-card--border">',
                             '</div>',
