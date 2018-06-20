@@ -73,3 +73,5 @@ let paramsStrings = ''
 let finalUrl = apiUrl + paramsStrings
 $.getJSON(finalUrl, datiArrivati)
 console.log("chiamata arrivata")
+
+

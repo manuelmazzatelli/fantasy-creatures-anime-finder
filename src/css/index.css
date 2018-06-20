@@ -70,7 +70,7 @@ body {
       color: inherit;
       border-bottom: 1px dotted; }
       .blog-card .details a:hover {
-        color: #31c3dd; }
+        color: #e27831; }
   .blog-card .description {
     height: 100%;
     padding: 10px;
@@ -95,7 +95,7 @@ body {
       padding-top: 20px; }
       .blog-card .description p:after {
         content: "";
-        background: #6f5088e0;
+        background: #7d0f09;
         height: 6px;
         width: 40px;
         /*POSITION*/
@@ -103,7 +103,7 @@ body {
         top: 6px;
         left: 0; }
     .blog-card .description a {
-      color: #6f5088e0;
+      color: #7d0f09;
       margin-bottom: 10px;
       float: right;
       font-size: 24px;
@@ -218,3 +218,4 @@ body {
           clear: both;
           flex: 1 auto;
         }
+    
